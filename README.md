@@ -1,2 +1,2 @@
-# taffypi
+# Taffy-pi
 TaffyPi Handheld Gaming Console
